@@ -6,7 +6,7 @@
 - Jagad Wijaya Purnomo	(05111940000132)
 
 ## **Nomor 1**
-Sebutkan webserver yang digunakan pada "ichimarumaru.tech"!
+Sebutkan webserver yang digunakan pada <a href='ichimarumaru.tech'>"ichimarumaru.tech"</a>!
 
 ## **Nomor 2**
 Temukan paket dari **web-web** yang menggunakan **basic authentication** method!
