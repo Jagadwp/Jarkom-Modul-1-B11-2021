@@ -15,11 +15,14 @@ Sebutkan webserver yang digunakan pada <a href='ichimarumaru.tech'>"ichimarumaru
 ## **Nomor 2**
 Temukan paket dari **web-web** yang menggunakan **basic authentication** method!
 
-#### Solusi
+### Solusi
 
 
 ## **Nomor 3**
 Ikuti perintah di <a href='basic.ichimarumaru.tech'>basic.ichimarumaru.tech</a>! Username dan password bisa didapatkan dari file .pcapng!
+
+### Solusi
+
 
 ## **Nomor 4**
 Temukan paket **mysql** yang mengandung **perintah query select**!
