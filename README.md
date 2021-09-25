@@ -5,6 +5,11 @@
 - Albert Filip Silalahi (05111940000116)
 - Jagad Wijaya Purnomo	(05111940000132)
 
+## **Pembagian Tugas**
+- Muhammad Nevin: Mengerjakan no. 1,2,4,10,11
+- Albert Filip Silalahi: Mengerjakan no. 3,5,6,8,12
+- Jagad Wijaya Purnomo:	Mengerjakan no. 7,9,13,14,15
+
 ## **Nomor 1**
 Sebutkan webserver yang digunakan pada <a href='ichimarumaru.tech'>"ichimarumaru.tech"</a>!
 
