@@ -26,7 +26,7 @@ Temukan paket dari **web-web** yang menggunakan **basic authentication** method!
 <p align="center"><img width="60%" src="https://lh5.googleusercontent.com/iD6Z6TNxPz6WacG-2tc-yZ91h1JWFC91uSbAIBKHjSFbxSrQ_C5u4KwLjFc3sr9VNIHiAHmeiTsAjxGUqDlq-leA7o-Ev7Mg4VXWWGhpekguuxZmxWmCg8Au9DryRXYK0eWV9QhS=s0"></p>
 
 ## **Nomor 3**
-- Ikuti perintah di <a href='basic.ichimarumaru.tech'>basic.ichimarumaru.tech</a>! Username dan password bisa didapatkan dari file .pcapng!
+Ikuti perintah di <a href='basic.ichimarumaru.tech'>basic.ichimarumaru.tech</a>! Username dan password bisa didapatkan dari file .pcapng!
 
 ### Solusi
 - Melakukan display filter ``` http.host ==  basic.ichimarumaru.tech ``` . Pilih yang memiliki method **GET**, lalu akan didapatkan username dan passwordnya
@@ -80,7 +80,7 @@ Hasilnya :
 <p align="center"><img width="70%" src="https://lh3.googleusercontent.com/QZa8RLMffAG0qWpAC9Al4Xs2n75tS6VCMxvBrrZTKQ5ZnabBWyHLc85PU-6FSbXbTqVfP5Pb8econNqP5m_znoDPt0IYtsyieqdEGjUPDheYMKqQTlBHRun0dhtLMkpNr8NsDr-K=s0"></p>
 
 ## **Nomor 8**
-- Cari paket yang menunjukan pengambilan file dari FTP tersebut!
+Cari paket yang menunjukan pengambilan file dari FTP tersebut!
 
 ### Solusi
 Menggunakan command ``` ftp.request.command == RETR ```
