@@ -8,8 +8,15 @@
 ## **Nomor 1**
 Sebutkan webserver yang digunakan pada <a href='ichimarumaru.tech'>"ichimarumaru.tech"</a>!
 
+#### Solusi
+- Filter menggunakan filter command http contains “ichimarumaru.tech”
+- Kemudian klik kanan, pilih Follow > TCP Stream, dan dapat terlihat bahwa webserver yang digunakan adalah nginx/1.18.0 (Ubuntu), dengan destination port 80 (HTTP).
+
 ## **Nomor 2**
 Temukan paket dari **web-web** yang menggunakan **basic authentication** method!
+
+#### Solusi
+
 
 ## **Nomor 3**
 Ikuti perintah di <a href='basic.ichimarumaru.tech'>basic.ichimarumaru.tech</a>! Username dan password bisa didapatkan dari file .pcapng!
